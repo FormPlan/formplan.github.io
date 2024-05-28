@@ -1,7 +1,7 @@
 # Formplan
 
 ## PDDL Plan Validator
-Formally verified validators for planning problems and solutions specified in PDDL (supporting the STRIPS planning fragment w/o ADL)
+Formally verified validators for planning problems and solutions specified in PDDL (supporting the STRIPS planning fragment)
 
 [Tool](https://github.com/mabdula/PDDL_STRIPS_Verified_Validator)
 
@@ -11,7 +11,7 @@ Formally verified validators for planning problems and solutions specified in Fa
 [Tool](https://mabdula.github.io/sw/SASP_val.tgz)
 
 ## SAT-Based Planner
-A formally verified SAT-based planner for planning problems and solutions specified in Fast-Downward's translator format
+A formally verified SAT-based planner for planning problems and solutions specified in [Fast-Downward's](https://www.fast-downward.org/TranslatorOutputFormat) translator format
 
 [Tool](https://github.com/mabdula/Verified-SAT-Based-Planning)
 
