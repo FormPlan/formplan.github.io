@@ -14,7 +14,7 @@ M. Abdulaziz and L. Koller, ‘Formal semantics and formally verified validation
 Formally verified validators for planning problems and solutions specified in Fast-Downward's translator format [(Download)](https://mabdula.github.io/sw/SASP_val.tgz)
 
 ## SAT-Based Planner
-A formally verified SAT-based planner for planning problems and solutions specified in [Fast-Downward's](https://www.fast-downward.org/TranslatorOutputFormat) translator format [Download](https://github.com/mabdula/Verified-SAT-Based-Planning)
+A formally verified SAT-based planner for planning problems and solutions specified in [Fast-Downward's](https://www.fast-downward.org/TranslatorOutputFormat) translator format [(Download)](https://github.com/mabdula/Verified-SAT-Based-Planning)
 
 ### Papers:
 
