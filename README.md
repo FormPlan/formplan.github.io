@@ -1,7 +1,7 @@
 # Formplan
 
 ## PDDL Plan Validator
-Formally verified validators for planning problems and solutions specified in PDDL (supporting the STRIPS planning fragment) [[Download)](https://github.com/mabdula/PDDL_STRIPS_Verified_Validator)]
+Formally verified validators for planning problems and solutions specified in PDDL (supporting the STRIPS planning fragment) [[Download](https://github.com/mabdula/PDDL_STRIPS_Verified_Validator)]
 
 ### Papers:
 
