@@ -32,7 +32,7 @@ A formally verfied implementation of Guesterin's seminal approximate policy iter
 
 ### Papers:
 
-M. Schäffeler and M. Abdulaziz, ‘Formally Verified Approximate Policy Iteration’. arXiv, Jun. 11, 2024. doi: [10.48550/arXiv.2406.07340](https://doi.org/10.48550/arXiv.2406.07340).
+M. Schäffeler and M. Abdulaziz, ‘Formally Verified Approximate Policy Iteration’. in the 39th AAAI Conference on Artificial Intelligence (AAAI), 2025. doi: [10.48550/arXiv.2406.07340](https://doi.org/10.48550/arXiv.2406.07340).
 
 ## Contributors
 Mohammad Abdulaziz, Maximilian Schäffeler, Lukas Koller, Friedrich Kurz, Peter Lammich 
