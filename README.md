@@ -30,7 +30,7 @@ Formally verfied implementations of (Gauss-Seidel) value iteration and (modified
 M. Schäffeler and M. Abdulaziz, ‘Formally Verified Solution Methods for Infinite-Horizon Markov Decision Processes’, in the 37th AAAI Conference on Artificial Intelligence (AAAI), 2023. doi: [10.1609/aaai.v37i12.26759](https://doi.org/10.1609/aaai.v37i12.26759).
 
 ### Factored MDP Solver
-A formally verfied implementation of Guesterin's seminal approximate policy iteration algorithm for solving factored MDPs [[github](https://github.com/schaeffm/fmdp_isabelle)]
+A formally verfied implementation of [[Guestrin's](https://www.jair.org/index.php/jair/article/view/10341)] seminal approximate policy iteration algorithm for solving factored MDPs [[github](https://github.com/schaeffm/fmdp_isabelle)]
 
 #### Papers:
 
