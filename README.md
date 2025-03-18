@@ -1,5 +1,7 @@
 # FormPlan
 
+A library of formally verified software for planning and model checking
+
 ## PDDL Plan Validator
 Formally verified validator for planning problems and solutions specified in PDDL (supporting the STRIPS planning fragment) [[github](https://github.com/mabdula/PDDL_STRIPS_Verified_Validator)]
 
