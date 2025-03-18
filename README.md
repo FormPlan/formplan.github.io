@@ -2,10 +2,10 @@
 
 A library of formally verified software for planning and model checking
 
-## PDDL Plan Validator
+### PDDL Plan Validator
 Formally verified validator for planning problems and solutions specified in PDDL (supporting the STRIPS planning fragment) [[github](https://github.com/mabdula/PDDL_STRIPS_Verified_Validator)]
 
-### Papers:
+#### Papers:
 
 M. Abdulaziz and P. Lammich, ‘A Formally Verified Validator for Classical Planning Problems and Solutions’, in the 30th International Conference on Tools with Artificial Intelligence (ICTAI), 2018. doi: [10.1609/aaai.v36i9.21197](https://doi.org/10.1609/aaai.v36i9.21197).
 
