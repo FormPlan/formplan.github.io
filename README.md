@@ -2,6 +2,8 @@
 
 A library of formally verified software for planning and model checking
 
+**AAAI-27 tutorial:** [AI and Theorem Proving: A Two-Way Lane](/aaai27-tutorial/)
+
 ### PDDL Plan Validator
 Formally verified validator for planning problems and solutions specified in PDDL (supporting the STRIPS planning fragment) [[github](https://github.com/mabdula/PDDL_STRIPS_Verified_Validator)]
 
